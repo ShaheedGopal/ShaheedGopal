@@ -1,1 +1,25 @@
 
+----------- Pull all records where the 2nd character in suburb is an 'a' ---------------------
+
+SELECT 
+      [Suburb],
+	    [Address]
+FROM [dbo].[Melbourne Housing Master]
+WHERE CHARINDEX('a', [Suburb]) = 2
+
+
+--------- Pull all records where the 1st character is a 'w' and the 2nd character is a vowel------------
+
+SELECT 
+  [Suburb],
+  [Address]
+FROM [dbo].[Melbourne Housing Master]
+WHERE PATINDEX('[W][aeoui]%', [Suburb]) = 1
+
+
+------------ Pull all records where the 4th character is a 'S' followed immidietly by a vowel------------
+
+SELECT [Suburb]
+	  ,[Address]
+FROM [dbo].[Melbourne Housing Master]
+WHERE PATINDEX('%[S][AEOUI]%', UPPER([Suburb])) = 4
