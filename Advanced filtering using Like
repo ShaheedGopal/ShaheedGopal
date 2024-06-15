@@ -99,3 +99,15 @@ SELECT [Suburb]
 FROM [dbo].[Melbourne Housing Master]
 WHERE SUBSTRING([Address],2,LEN([Address])) LIKE '[^0-9]%'
 	AND [Address] NOT LIKE '%/%'
+
+
+------------ Display all records 1st (trims space before and after) and disregards all those from 2nd character onwards that has a-z or A-Z or 0-9 ------------------
+SELECT [Suburb]
+	  ,[Address]
+	  ,[Rooms]
+	  ,[Price]
+	  ,[Final Price]
+	  ,[Postcode]
+	  ,[Bathroom]
+FROM [dbo].[Melbourne Housing Master]
+WHERE LTRIM(RTRIM(SUBSTRING([Address],2,LEN([Address])))) LIKE '[^a-zA-Z0-9]%'
