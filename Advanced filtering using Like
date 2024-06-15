@@ -85,3 +85,17 @@ SELECT [Suburb]
       ,[Bathroom]
 FROM [dbo].[Melbourne Housing Master]
 WHERE SUBSTRING([Address],2,1) LIKE '[^0-9]'
+
+
+-------------Display all records and disregards those where the 2nd onwards (using len of address as dynamic value) is a number or a slash (/)-----------
+
+SELECT [Suburb]
+	  ,[Address]
+	  ,[Rooms]
+	  ,[Price]
+	  ,[Final Price]
+	  ,[Postcode]
+	  ,[Bathroom]
+FROM [dbo].[Melbourne Housing Master]
+WHERE SUBSTRING([Address],2,LEN([Address])) LIKE '[^0-9]%'
+	AND [Address] NOT LIKE '%/%'
