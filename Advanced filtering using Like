@@ -61,3 +61,14 @@ SELECT [Suburb]
       ,[Bathroom]
 FROM [dbo].[Melbourne Housing Master]
 WHERE [Suburb] LIKE '[A][bl]%'
+
+--------------- Display all records where suburb starts with Ab or Al (doing away with case sensativity) --------------- 
+SELECT [Suburb]
+      ,[Address]
+      ,[Rooms]
+      ,[Price]
+      ,[Final Price]
+      ,[Postcode]
+      ,[Bathroom]
+FROM [dbo].[Melbourne Housing Master]
+WHERE UPPER([Suburb]) LIKE '[A][BL]%'
