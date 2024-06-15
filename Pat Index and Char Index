@@ -23,3 +23,13 @@ SELECT [Suburb]
 	  ,[Address]
 FROM [dbo].[Melbourne Housing Master]
 WHERE PATINDEX('%[S][AEOUI]%', UPPER([Suburb])) = 4
+
+
+
+------ Display all records where the 5th character is an 'a'---------------
+
+--Filtering on char placement 
+SELECT [Suburb]
+	  ,[Address]
+FROM [dbo].[Melbourne Housing Master]
+WHERE [Address] LIKE '____a%'
