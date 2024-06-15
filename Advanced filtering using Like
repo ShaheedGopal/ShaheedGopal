@@ -50,3 +50,14 @@ SELECT [Suburb]
       ,[Final Price]
 FROM [Melbourne Housing Master]
 WHERE [Rooms] NOT IN (3,4)
+
+--------------- Display all records where suburb starts with Ab or Al --------------- 
+SELECT [Suburb]
+      ,[Address]
+      ,[Rooms]
+      ,[Price]
+      ,[Final Price]
+      ,[Postcode]
+      ,[Bathroom]
+FROM [dbo].[Melbourne Housing Master]
+WHERE [Suburb] LIKE '[A][bl]%'
