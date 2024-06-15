@@ -14,3 +14,19 @@ SELECT [Suburb]
       ,[Car]
 FROM [Melbourne Housing Master]
 WHERE [Address] LIKE ('[0-9]%')
+
+---- Display all records where adress column has an alphabet -------------------------
+SELECT [Suburb]
+      ,[Address]
+      ,[Rooms]
+      ,[Type]
+      ,[Price]
+      ,[Final Price]
+      ,[Date]
+      ,[Distance]
+      ,[Postcode]
+      ,[Bedroom2]
+      ,[Bathroom]
+      ,[Car]
+FROM [Melbourne Housing Master]
+WHERE [Address] LIKE ('%[a-z]%')
