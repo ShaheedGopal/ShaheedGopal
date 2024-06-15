@@ -30,3 +30,23 @@ SELECT [Suburb]
       ,[Car]
 FROM [Melbourne Housing Master]
 WHERE [Address] LIKE ('%[a-z]%')
+
+-------display all records where address doesnt end in street ---------------
+
+SELECT [Suburb]
+      ,[Address]
+      ,[Rooms]
+      ,[Type]
+      ,[Final Price]
+FROM [Melbourne Housing Master]
+WHERE [Address] NOT LIKE ('%St')
+
+
+-------- Display all records excep 3 or 4 bedrooms------------
+SELECT [Suburb]
+      ,[Address]
+      ,[Rooms]
+      ,[Type]
+      ,[Final Price]
+FROM [Melbourne Housing Master]
+WHERE [Rooms] NOT IN (3,4)
