@@ -72,3 +72,16 @@ SELECT [Suburb]
       ,[Bathroom]
 FROM [dbo].[Melbourne Housing Master]
 WHERE UPPER([Suburb]) LIKE '[A][BL]%'
+
+
+--------- Display all records AND disregards those where the 2nd character in address field is a number-----------------
+
+SELECT [Suburb]
+      ,[Address]
+      ,[Rooms]
+      ,[Price]
+      ,[Final Price]
+      ,[Postcode]
+      ,[Bathroom]
+FROM [dbo].[Melbourne Housing Master]
+WHERE SUBSTRING([Address],2,1) LIKE '[^0-9]'
