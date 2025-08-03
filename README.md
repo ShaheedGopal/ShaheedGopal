@@ -1,13 +1,48 @@
-Passionate Operations Specialist | Siebel CRM | Reporting and Analysis | Process Optimization | SQL | Revenue Assurance | Advanced Excel
+# 👋 Hi, I'm Shaheed Gopal
 
-🚀 About Me: Greetings! I am a dynamic Operational Specialist with a knack for transforming raw information into actionable insights. My expertise lies in Siebel CRM, Revenue Assurance, Process Mapping, SQL, Reporting and Analysis, and Advanced Excel. I thrive on the challenges of analyzing data and taking effective action based on this analysis leading to drastic positive impacts on business performance.
+🎯 Governance | Risk | Compliance | Cybersecurity
 
-💡 Key Skills: • Programming Languages: Proficient in SQL data manipulation and analysis. • Revenue Assurance: Experienced in taking effective action of insights gained from data analysis leading to multi-million-rand savings across multiple projects • Process Mapping and Optimization: 10 years’ experience in optimizing process leading to industry changing standards. • Excel Mastery: Advanced Excel skills for complex data analysis.
+I’m a Cybersecurity professional transitioning from a strong operations and revenue assurance background into the GRC domain. With hands-on experience in regulatory compliance, data integrity, and process controls in high-stakes environments (Vodacom & MTN), I bring a practical, business-aligned approach to securing organizations and ensuring regulatory alignment.
 
-🔍 Data Explorer: I possess a genuine passion for cleaning data and uncovering hidden patterns. I specialize in transforming chaotic datasets into valuable insights that drive strategic decision-making.
+## 🔒 What I Do
 
-🌐 Project Experience: • Customer Service Projects: Proven track record in managing and enhancing customer service projects, ensuring optimal satisfaction and engagement. • Billing System Projects: Experienced in developing and optimizing billing systems for streamlined operations and improved financial processes. • Data Analysis: Proficient in leveraging analytical skills to derive actionable insights from complex datasets.
+- ✅ Map and optimize compliance processes (ISO 27001, POPIA, NIST, GDPR)
+- 🧠 Translate business risk into actionable security and operational controls
+- 🔍 Lead risk assessments, internal audits, and process remediation plans
+- 📊 Develop dashboards and reports to support internal and external audits
+- 📂 Manage documentation for policies, controls, and evidence trails
 
-🤝 Let's Connect: I am always eager to collaborate, share insights, and contribute to data-driven success stories. If you are looking for a dedicated professional with a passion for data and a track record in customer service and billing system projects, let's connect! Together, we can unlock the full potential of your data.
+## 🧰 Skills & Tools
 
-#DataAnalytics #RevenueAssurance #ProcessOptimization #SiebelCRM #SQL #ReportingAndAnalysis #Excel #ProjectManagement #CustomerService #BillingSystem #DataDrivenDecisions
+- GRC Frameworks: ISO 27001, NIST CSF, COBIT, POPIA
+- Platforms: OneTrust, Risk Register Templates, Microsoft Purview
+- Data Analysis: SQL, Excel, Power BI
+- Project Delivery: JIRA, Confluence, Agile, Waterfall
+- Automation & Compliance: UiPath (RPA), Process Mapping
+
+## 🏆 Achievements
+
+- Prevented **R250 million+** in revenue leakage through structured process control frameworks
+- Led 120+ internal engagement campaigns to drive policy and compliance awareness
+- Owned FNO partner reconciliation & reporting processes, including audit trails
+- Consistently rated **top performer** and selected as **brand ambassador**
+
+## 📚 Current Learning
+
+- 📘 ISC² Certified in Cybersecurity (CC)
+- 📗 CompTIA Security+
+- 📙 Microsoft SC-900: Security, Compliance & Identity Fundamentals
+- 🧠 GRC & Risk Register Implementation in Cloud Environments
+
+## 📁 Repositories Coming Soon
+
+I’m currently working on:
+- 📊 GRC Template Repositories (Risk Registers, Control Libraries, Audit Evidence Logs)
+- 🛡️ Case studies simulating internal control remediation
+- ⚙️ RPA bots for evidence collection and user access reviews
+
+---
+
+📫 Let’s connect on **cybersecurity, compliance, and risk strategy.**
+
+🔗 [LinkedIn](https://www.linkedin.com/in/shaheed-gopal/)  
