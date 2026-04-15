@@ -2,7 +2,14 @@
 
 🎯 Governance | Risk | Compliance | Cybersecurity
 
-I’m a Cybersecurity professional transitioning from a strong operations and revenue assurance background into the GRC domain. With hands-on experience in regulatory compliance, data integrity, and process controls in high-stakes environments (Vodacom & MTN), I bring a practical, business-aligned approach to securing organizations and ensuring regulatory alignment.
+Enterprise finance and operations professional with a proven track record of driving efficiency, automation, and regulatory excellence across
+complex, large-scale environments. Successfully integrated 10+ enterprise systems, achieving 100% processing accuracy while leading 100+
+initiatives focused on automation and process optimization. Delivered significant operational gains by mentoring and developing a team of 17
+Operations Specialists, many of whom have progressed to leadership roles and now lead teams independently. Established industry-standard
+customer care and finance control frameworks, strengthening governance, consistency, and operational excellence across the organization.
+Specialized in finance systems, revenue assurance, and compliance, with a proven record of protecting and recovering approximately R1.2 billion in
+revenue throughout my career. Driven by continuous improvement and innovation, I focus on building scalable solutions that close revenue gaps,
+improve controls, and keep governance strong.
 
 ## 🔒 What I Do
 
