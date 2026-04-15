@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shaheed Gopal
 
-🎯 Governance | Risk | Compliance | Cybersecurity
+🎯 Enterprise Finance & Operations Leader | Automation, Compliance & Revenue Assurance Specialist
 
 Enterprise finance and operations professional with a proven track record of driving efficiency, automation, and regulatory excellence across
 complex, large-scale environments. Successfully integrated 10+ enterprise systems, achieving 100% processing accuracy while leading 100+
