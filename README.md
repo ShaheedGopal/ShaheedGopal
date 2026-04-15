@@ -25,11 +25,11 @@ improve controls, and keep governance strong.
 - Platforms: OneTrust, Risk Register Templates, Microsoft Purview
 - Data Analysis: SQL, Excel, Power BI
 - Project Delivery: JIRA, Confluence, Agile, Waterfall
-- Automation & Compliance: UiPath (RPA), Process Mapping
+- Automation & Compliance: UiPath (RPA), Microsoft Power Automate
 
 ## 🏆 Achievements
 
-- Prevented **R250 million+** in revenue leakage through structured process control frameworks
+- Prevented **1.2 billion+** in revenue leakage through structured process control frameworks
 - Led 120+ internal engagement campaigns to drive policy and compliance awareness
 - Owned FNO partner reconciliation & reporting processes, including audit trails
 - Consistently rated **top performer** and selected as **brand ambassador**
